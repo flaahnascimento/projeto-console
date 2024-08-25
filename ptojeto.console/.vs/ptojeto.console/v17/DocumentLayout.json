@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6875BC4D-43FE-442C-AFC9-F446EC9ECE7E}|ptojeto.console.csproj|c:\\users\\flavia\\desktop\\ptojeto.console\\ptojeto.console\\exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875BC4D-43FE-442C-AFC9-F446EC9ECE7E}|ptojeto.console.csproj|solutionrelative:exemplo03.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875BC4D-43FE-442C-AFC9-F446EC9ECE7E}|ptojeto.console.csproj|C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875BC4D-43FE-442C-AFC9-F446EC9ECE7E}|ptojeto.console.csproj|solutionrelative:Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6875BC4D-43FE-442C-AFC9-F446EC9ECE7E}|ptojeto.console.csproj|C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\exemplo02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6875BC4D-43FE-442C-AFC9-F446EC9ECE7E}|ptojeto.console.csproj|solutionrelative:exemplo02.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "exemplo03.cs",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\exemplo03.cs",
+              "RelativeDocumentMoniker": "exemplo03.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\exemplo03.cs",
+              "RelativeToolTip": "exemplo03.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAABYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:49:30.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "exemplo02.cs",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\exemplo02.cs",
+              "RelativeDocumentMoniker": "exemplo02.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\exemplo02.cs",
+              "RelativeToolTip": "exemplo02.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAwBUAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T18:00:42.197Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\flavia\\Desktop\\ptojeto.console\\ptojeto.console\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABQAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-15T17:06:46.961Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

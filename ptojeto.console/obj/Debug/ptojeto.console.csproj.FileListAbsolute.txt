@@ -1,0 +1,4 @@
+C:\Users\flavia\Downloads\ptojeto.console\obj\Debug\ptojeto.console.csproj.AssemblyReference.cache
+C:\Users\flavia\Downloads\ptojeto.console\obj\Debug\ptojeto.console.csproj.CoreCompileInputs.cache
+C:\Users\flavia\Desktop\ptojeto.console\ptojeto.console\obj\Debug\ptojeto.console.csproj.AssemblyReference.cache
+C:\Users\flavia\Desktop\ptojeto.console\ptojeto.console\obj\Debug\ptojeto.console.csproj.CoreCompileInputs.cache
